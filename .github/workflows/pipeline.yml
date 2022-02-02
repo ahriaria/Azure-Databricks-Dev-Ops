@@ -1,4 +1,4 @@
-# Note
+# Note note
 # This assumes you have a secret named "AZURE_CREDENTIALS" in GitHub
 # To create the service principal run:
 #   az ad sp create-for-rbac --name "ServicePrincipalGitHubAction" --role contributor \
